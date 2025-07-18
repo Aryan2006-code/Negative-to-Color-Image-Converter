@@ -46,6 +46,7 @@ Perfect for those scanned old-school photo strips or digital negatives you want 
 Loading image...
 
 ✅ Image loaded successfully!
+
 🎨 Converting...
 
 ✅ Saved positive image as: positive.jpg
@@ -64,13 +65,15 @@ That’s all it takes to invert colors and recreate the original look!
 
 ---
 
-🚨 Known Issues
+## 🚨 Known Issues
+
 🐛 Does not auto-detect grayscale or incorrectly scanned negatives
+
 🖼️ Output may need further color correction (especially old film scans)
 
 ---
 
-🔮 Future Scope
+## 🔮 Future Scope
 ✨ Add GUI (Tkinter or PyQT version)
 
 📈 Batch conversion of multiple negatives
@@ -81,13 +84,13 @@ That’s all it takes to invert colors and recreate the original look!
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Aryan Kumar Prajapati
 
 ---
 
 
-🙌 Help Wanted!
+## 🙌 Help Wanted!
 If you’re into image processing or OpenCV, feel free to:
 
 ⚒️ Suggest optimizations
@@ -100,7 +103,7 @@ Pull requests are welcome!
 
 ---
 
-📜 License
+## 📜 License
 This project is open-source and free to use under the MIT License.
 
 ⭐ Found it useful or fun? Give it a star and share it with your friends!
