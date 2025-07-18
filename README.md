@@ -106,4 +106,6 @@ Pull requests are welcome!
 ## 📜 License
 This project is open-source and free to use under the MIT License.
 
+---
+
 ⭐ Found it useful or fun? Give it a star and share it with your friends!
