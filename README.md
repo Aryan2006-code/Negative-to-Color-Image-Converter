@@ -28,11 +28,11 @@ Perfect for those scanned old-school photo strips or digital negatives you want 
 
 ## 🗂️ File Structure
 
-📁 negative-to-color-image/
-├── neg_converter.py # Python script for conversion
-├── negative.jpg # Sample input image (rename your image to this)
-├── positive.jpg # Output image after conversion
-└── README.md # Project documentation
+📁 neg_conv
+- ├── negative.py # Python script for conversion
+- ├── sample_input.jpg # Sample input image (rename your image to this)
+- ├── sample_output.jpg # Output image after conversion
+- └── README.md # Project documentation
 
 
 ---
